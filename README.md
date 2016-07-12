@@ -35,3 +35,14 @@ This project contains the following:
 * **Optimizer Plugin:**  Each function is automatically optimized via the [serverless-optimizer-plugin](https://www.github.com/serverless/serverless-optimizer-plugin)
 * **Templates:** Templates are used to reduce configuraton syntax
 * **REST API Parameters:** The Multi/Show function endpoint gives an example of how to accept a path parameter
+
+##Setup
+
+1. ```npm install serverless -g```
+2. ```serverless project install serverless-starter```
+3. Create Github repo for new function
+4. Edit README.md and other configuration with new repo information
+5. ```git remote add origin https://github.com/{ACCOUNT}/{REPO}.git```
+6. ```git add {CHANGED_OR_NEW_FILES}```
+7. ```git commit -m {MESSAGE}```
+8. ```git push -u origin master```
