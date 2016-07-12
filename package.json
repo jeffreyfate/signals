@@ -1,0 +1,26 @@
+{
+  "name": "signals",
+  "description": "Process and spit out streaming services content info.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Jeff Fate"
+  },
+  "homepage": "https://github.com/jeffthefate/signals#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffthefate/signals.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeffthefate/signals/issues"
+  },
+  "dependencies": {
+    "serverless-optimizer-plugin": "^2.0.0"
+  },
+  "license": "MIT",
+  "scripts": {},
+  "private": false,
+  "_npmOperationalInternal": {
+    "host": "packages-13-west.internal.npmjs.com",
+    "tmp": "tmp/serverless-starter-0.2.1.tgz_1458892667270_0.7738919164985418"
+  }
+}
